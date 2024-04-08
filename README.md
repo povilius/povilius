@@ -1,8 +1,3 @@
-# React + Vite
+With a rich background in Interior Design, I've successfully managed a variety of projects, specializing in spatial planning, lighting design, and styling for both private residences and administrative spaces. Recently, I've embarked on a new career path, completing a rigorous 480-hour Front-End development course at Code Academy. Fluent in HTML, CSS, JavaScript, and React.js, I'm excited to merge my creative design expertise with cutting-edge technologies, aiming to deliver seamless and innovative digital experiences.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Skills - HTML, CSS (SASS), JavaScript, React.js, Node.js, MongoDB.
